@@ -1,0 +1,14 @@
+#typing {
+  padding-top: 40px;
+  font-family: 'Courier New', monospace;
+  text-align: center;
+}
+
+#typing #target {
+  font-size: 48px;
+  letter-spacing: 3px;
+}
+
+#typing .info {
+  color:black;
+}
